@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreeshail Chitpur</h1>
 <h3 align="center">Student at VIT, Pune.</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **shreeshail.chitpur21@vit.edu**
 
